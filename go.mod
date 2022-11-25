@@ -1,3 +1,3 @@
-module main.go
+module miniapi.go
 
 go 1.19
